@@ -1,5 +1,5 @@
 Step 1:
-Open the terminal and start the tool, there you can find a prompt where you have to enter the Video URL.
+Open the terminal and start the tool by typing [python YouTube-Subtitle-Downloader.py] there you can find a prompt where you have to enter the Video URL.
 ![gtp1](https://user-images.githubusercontent.com/96106415/147880642-0154afb2-667f-49c7-9f3f-8e338e64d167.png)
 
 Step 2:

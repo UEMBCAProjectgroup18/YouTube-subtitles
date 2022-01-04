@@ -15,7 +15,8 @@ When you enter the video URL, there you can find two options, select no.1* for t
 
 I assume that you selected option 2 for the translated subtitles, there you can find 3 languages Hindi, Bengali, and Spanish. The next step is to select the language using code like ‘hi’ for HINDI, ‘bn’ for BENGALI, and ‘es’ for SPANISH.
 
-![Screenshot_20220105_002027](https://user-images.githubusercontent.com/43259826/148109151-96d9b0b2-2e32-4e32-a236-6aede4a41a38.png)
+![gtp6](https://user-images.githubusercontent.com/43259826/148109675-34277a7a-326f-40b0-9b5a-caec949dd4cc.png)
+
 
 
 Step 4:
